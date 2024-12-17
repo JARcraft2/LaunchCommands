@@ -1,6 +1,6 @@
 This mod is primarily designed for datapackers who want to modify player motion, or have more control over entity motion.
 
-Commands:
+Usage:
 /launchfacing <target> <strength> <overwrite>
   Launches the given entity in the direction they are facing.
   /launchfacing @p 2
@@ -16,4 +16,5 @@ Commands:
   /launchtopoint @s @n[type=marker] 2
   execute as @e[type=pig,distance=..20] run launchtopoint @s @p 3 true
 
+This mod is for the Fabric mod launcher.
 This mod is available under the CC0 license.
